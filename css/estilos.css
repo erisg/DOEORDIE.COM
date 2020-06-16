@@ -1,0 +1,57 @@
+
+body{
+    background:url(../img/f.jpg);
+    background-repeat: repeat;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+  height: 430px;
+  font-size: 20px;
+  background: url(../img/atardecer.jpg);
+}
+nav a{
+  text-decoration: none;
+  font-family:sans-serif;
+  letter-spacing: 2px;
+  font-size: 15px;
+  margin: 0 5px;
+  color: #FAF8F8;
+}
+nav{
+  line-height: 100px;
+  float: right;
+}
+
+.footer{
+  width: 100%;
+  height: auto;
+  margin: auto;
+  background:#1A7070;
+  padding: 20px 0px;
+
+}
+
+.footer-soocial-icons{
+  width: 100%;
+  padding:0px;
+  margin:auto;
+}
+
+.footer-soocial-icons ul{
+  margin:0px;
+  padding:0px;
+  text-align: center;
+}
+
+.footer-soocial-icons ul li{
+ display: inline-block;
+ width:50px;
+ height: 50px;
+ margin: 0px 10px;
+ border-radius:
+}
+
+.row img{
+  width: 35px;
+  height: 35px;
+}
